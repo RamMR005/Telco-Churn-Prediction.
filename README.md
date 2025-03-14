@@ -265,7 +265,7 @@ Expected Response:
 
 ## 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Telco-Churn-Prediction.git
+git clone https://github.com/RamMR005/Telco-Churn-Prediction.git
 cd Telco-Churn-Prediction
 ```
 
